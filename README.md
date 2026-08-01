@@ -73,6 +73,7 @@ Then place `HR_comma_sep.csv` in `data/` and open
 ![Feature importance — random forest](images/feature_importance_rf.png)
 ![Random forest confusion matrix](images/rf_confusion_matrix.png)
 ![Random forest ROC curve](images/rf_roc_curve.png)
+## DashBoard
 ![Dashboard Page 1](DashBoard/Salifort_Motors_Attrition_Dashboard_Page1.jpg)
 ![Dashboard Page 2](DashBoard/Salifort_Motors_Attrition_Dashboard_Page2.jpg)
 ![Dashboard Page 3](DashBoard/Salifort_Motors_Attrition_Dashboard_Page3.jpg)
