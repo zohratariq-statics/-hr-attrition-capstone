@@ -1,0 +1,18 @@
+# Data files (download separately, see README)
+data/*.csv
+
+# Saved models
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
