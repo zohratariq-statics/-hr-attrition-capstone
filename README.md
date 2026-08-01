@@ -73,4 +73,4 @@ Then place `HR_comma_sep.csv` in `data/` and open
 ![Feature importance — random forest](images/feature_importance_rf.png)
 ![Random forest confusion matrix](images/rf_confusion_matrix.png)
 ![Random forest ROC curve](images/rf_roc_curve.png)
-![Power BI Dashboard](images/powerbi_dashboard.png)
+![Power BI Dashboard](images/powerbi_dashboard.jpj)
